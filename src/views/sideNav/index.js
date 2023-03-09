@@ -29,7 +29,7 @@ const SideNavBar = () => {
             <div id="main">
             <span  onClick={openNav} onMouseOver={openNav}> open</span>
                 <h2>Sidenav Push Example</h2>
-                <p>Click on the element below to open the side navigation menu, and push this content to the right vikash .</p>
+                <p>Click on the element below to open the side navigation menu, and push this content to the right vikash pandey .</p>
                 <Rounting />
                 
             </div>
